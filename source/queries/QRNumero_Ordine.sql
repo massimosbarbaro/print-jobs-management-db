@@ -1,0 +1,3 @@
+SELECT DISTINCTROW TGenerale.Stampatore, TGenerale.Cliente, TGenerale.Materiale, TGenerale.Soggetto, TGenerale.Qta, TGenerale.[Acquisto L/Kg], TGenerale.[Vendita  L/Kg], TGenerale.[Costo Impianto], TGenerale.[Larghezza Foglia], TGenerale.[Diam Esterno], TGenerale.[Diam Interno], TGenerale.N_Colori, TGenerale.Coprenza, TGenerale.[Passo stampa], TGenerale.[Tipo stampa], TGenerale.[Prova richiesta], TGenerale.Paletta, TGenerale.[Peso Max paletta], TGenerale.[H paletta], TGenerale.[Tipo imballo], TGenerale.Etichette, TGenerale.Note, TGenerale.Data, TGenerale.Preventivo, TGenerale.Lavoro, TGenerale.[Lavoro n], TGenerale.N_Ordine, TGenerale.[Vendita Cilindro], TGenerale.[Acquisto Cilindro]
+FROM TGenerale
+WHERE ((TGenerale.N_Ordine Like [Inserire il numero d'ordine cercato]));

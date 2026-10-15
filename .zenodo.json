@@ -1,0 +1,24 @@
+{
+  "title": "Stampa: orders, estimates and costs of print jobs placed with printers (db, 1996–1999)",
+  "upload_type": "software",
+  "publication_date": "1999-04-15",
+  "description": "<p><em>Ordini, preventivi e costi dei lavori di stampa affidati agli stampatori</em></p><p>Stampa follows the print jobs that a packaging company commissions from external printers. Each job records printer, customer, material, subject, quantity and order number, purchase and sale price of the printing cylinders and of the set-up, reel width and inner and outer diameters, number of colours, coverage, repeat length, proof, pallet, weight and labels, with estimate and job dates. The jobs can be searched by customer, printer, order, estimate and job number.</p><p>Designed and programmed by Massimo Sbarbaro in 1996–1999 (db). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "creators": [
+    {
+      "name": "Sbarbaro, Massimo",
+      "orcid": "0009-0006-8965-9013"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Microsoft Access",
+    "printing",
+    "print jobs",
+    "estimates",
+    "packaging",
+    "legacy software"
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "notes": "Original development: 1996–1999."
+}

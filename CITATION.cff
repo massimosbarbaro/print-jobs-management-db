@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Stampa: orders, estimates and costs of print jobs placed with printers (db, 1996–1999)"
+version: "1.0"
+abstract: "Stampa follows the print jobs that a packaging company commissions from external printers. Each job records printer, customer, material, subject, quantity and order number, purchase and sale price of the printing cylinders and of the set-up, reel width and inner and outer diameters, number of colours, coverage, repeat length, proof, pallet, weight and labels, with estimate and job dates. The jobs can be searched by customer, printer, order, estimate and job number."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+date-released: "1999-04-15"
+repository-code: "https://github.com/massimosbarbaro/print-jobs-management-access"
+keywords:
+  - "Microsoft Access"
+  - "printing"
+  - "print jobs"
+  - "estimates"
+  - "packaging"
+  - "legacy software"
